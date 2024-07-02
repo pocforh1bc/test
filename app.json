@@ -1,0 +1,7 @@
+{
+	"name": "test php app",
+	"description": "Deploy a sample php app",
+	"repository": "https://github.com/pocforh1bc/test/",
+	"logo": "https://github.com/pocforh1bc/test/",
+	"keywords": ["heroku", "php", "apache", "apache2"]
+}
